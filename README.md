@@ -1,13 +1,14 @@
 # 👋 AJ Aizpurua
 
 **`Junior Developer`**
-- 👋 Hi, I’m @aj-aizp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+I am recent grauduate of Wake Forest University. I received my bachelors of science in Computer Science with a minor in Mathamatics. My recent projects include game scripting using the Unity Game Engine and graphics programming using OpenGL/GLSL.  
+
+---
+
+### 🧰 Languages and Tools
+
+
 
 <!---
 aj-aizp/aj-aizp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
