@@ -14,7 +14,7 @@ I am a recent grauduate of Wake Forest University. I received my bachelors of sc
           
 <img align="left" alt="OpenGL" width="80px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" />
           
-<img align="left" alt="Unity" width="60px" style="padding-right:10px;" class="devicon-unity-plain-wordmark"> 
+<img align="left" alt="Unity" width="60px" style="padding-right:10px;" class="devicon-unity-plain-wordmark"/> 
           
           
           
