@@ -2,11 +2,15 @@
 
 **`Junior Developer`**
 
-I am recent grauduate of Wake Forest University. I received my bachelors of science in Computer Science with a minor in Mathamatics. My recent projects include game scripting using the Unity Game Engine and graphics programming using OpenGL/GLSL.  
+I am a recent grauduate of Wake Forest University. I received my bachelors of science in Computer Science with a minor in Mathamatics. My recent projects include game scripting using the Unity Game Engine and graphics programming using OpenGL/GLSL.  
 
 ---
 
 ### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+
 
 
 
