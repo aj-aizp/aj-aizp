@@ -1,3 +1,6 @@
+# 👋 AJ Aizpurua
+
+**`Junior Developer`**
 - 👋 Hi, I’m @aj-aizp
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
